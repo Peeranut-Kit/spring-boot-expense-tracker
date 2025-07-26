@@ -33,9 +33,4 @@ This is a Spring Boot-based expense tracking application that allows users to re
 3. Start the application using Docker Compose:
    ```bash
    docker compose up -d --build
-
-## Docker Setup Overview
-
-#Service            Port
-Spring Boot        8080
-PostgreSQL         5432
+   
